@@ -1,0 +1,3 @@
+C:/Users/kivan/OneDrive/Documents/GitHub/yilanoyunu/cmake-build-debug/CMakeFiles/yilanoyunu.dir
+C:/Users/kivan/OneDrive/Documents/GitHub/yilanoyunu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kivan/OneDrive/Documents/GitHub/yilanoyunu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

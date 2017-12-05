@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kivan/OneDrive/Documents/GitHub/yilanoyunu/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+windows.h
+-
+conio.h
+-
+
